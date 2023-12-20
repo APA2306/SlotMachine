@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Anelli.Alessandro._4I.CliSlotMachine</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Anelli.Alessandro.4I.LibSlotMachine\Anelli.Alessandro.4I.LibSlotMachine.csproj" />
+  </ItemGroup>
+
+</Project>
